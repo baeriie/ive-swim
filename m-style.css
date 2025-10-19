@@ -63,7 +63,8 @@ footer {
 .logo-i {
   width: 3%;
   height: auto;
-  margin: 15 0 8 20;
+  position: relative;
+  left: 50%;
 }
 .logo-ss {
   width: 8%;
