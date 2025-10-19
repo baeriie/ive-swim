@@ -6,7 +6,9 @@ body {
   width: 10%;
   height: auto;
   border: solid 2px #eee;
+  filter: saturate(-100);
 }
 .pf:hover, .pf:active {
   border-color: #101010;
+  filter: saturate(0);
 }
