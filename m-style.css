@@ -5,10 +5,16 @@ body {
 .pf {
   width: 10%;
   height: auto;
-  border: solid 2px #eee;
-  filter: saturate(-100);
+  border: solid 2px transparent;
+  border-radius: 5px;
+  filter: saturate(0);
 }
 .pf:hover, .pf:active {
   border-color: #101010;
-  filter: saturate(0);
+  filter: saturate(100);
+}
+
+.logo {
+  width: 10%;
+  height: auto;
 }
