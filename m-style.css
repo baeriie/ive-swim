@@ -1,7 +1,7 @@
 body {
   background: #eee;
   color: #101010;
-  overflow-y: hidden;
+  
 }
 header {
   background-color: #eee;
@@ -41,6 +41,7 @@ footer {
   text-align: center;
   z-index: 1000;
   overflow: hidden;
+  overflow: hidden;
 }
 
 
@@ -75,6 +76,7 @@ footer {
   height: auto;
   position: absolute;
   left: -50;
+  overflow: hidden;
   
 }
 .logo-ss {
