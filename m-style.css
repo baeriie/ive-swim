@@ -2,7 +2,7 @@ body {
   background: #eee;
   color: #101010;
 }
-.pfdiv {display: block;}
+.pfdiv {display: inline-block;}
 .pf {
   width: 10%;
   height: 10%;
@@ -17,8 +17,8 @@ body {
 }
 
 .logo-i {
-  width: 5%;
-  height: auto;
+  width: auto;
+  height: 2%;
 }
 .logo-ss {
   width: 10%;
