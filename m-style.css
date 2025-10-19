@@ -8,6 +8,7 @@ header {
   text-align: left;
   justify-content: left;
   padding: 10px;
+  overflow: hidden;
 }
 /* Style the topnav */
 ul.topnav {
