@@ -45,6 +45,7 @@ footer {
 .pfdiv {
   display: block;
   margin: auto;
+  margin-top: 7px;
   width: 70%;
   text-align: center;
   justify-content: center;
@@ -53,8 +54,8 @@ footer {
   align-items: center;
 }
 .pf {
-  width: 11%;
-  height: 11%;
+  width: 15%;
+  height: 15%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
