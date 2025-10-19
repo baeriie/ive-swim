@@ -2,14 +2,57 @@ body {
   background: #eee;
   color: #101010;
 }
-.pfdiv {display: inline-block;}
+header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
+/* Style the topnav */
+ul.topnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+/* Style links in topnav */
+ul.topnav li a {
+  display: block;
+  color: #f1f1f1;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+ul.topnav li a:hover {
+  background-color: #dddddd;
+  color: black;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  padding: 8px;
+  text-align: center;
+  z-index: 1000;
+}
+
+
+.pfdiv {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
 .pf {
   width: 9%;
   height: 9%;
   border: solid 3px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  margin: 0 0 0 2%;
+  
 }
 .pf:hover, .pf:active {
   border-color: #101010;
