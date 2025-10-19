@@ -13,7 +13,7 @@ body {
 }
 .pf:hover, .pf:active {
   border-color: #101010;
-  filter: saturate(10);
+  filter: saturate(1);
 }
 
 .logo-i {
