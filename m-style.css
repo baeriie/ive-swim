@@ -57,12 +57,14 @@ footer {
 .pf:hover, .pf:active {
   border-color: #101010;
   filter: saturate(1);
+  transition: ease-in .5s;
 }
 
 .logo-i {
   width: 3%;
   height: auto;
-  margin: 20 15 10 10;
+  position: relative;
+  right: 5%;
 }
 .logo-ss {
   width: 8%;
