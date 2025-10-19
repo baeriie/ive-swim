@@ -48,15 +48,18 @@ footer {
   width: 70%;
   text-align: center;
   justify-content: center;
+  justify-items: center;
+  justify-self: center;
   align-items: center;
 }
 .pf {
-  width: 9%;
-  height: 9%;
+  width: 11%;
+  height: 11%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  
+  padding-right: 2%;
+  padding-left: 2%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
