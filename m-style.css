@@ -1,7 +1,7 @@
 body {
   background: #eee;
   color: #101010;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 header {
   background-color: #eee;
