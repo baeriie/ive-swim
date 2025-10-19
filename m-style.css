@@ -1,7 +1,7 @@
 body {
   background: #eee;
   color: #101010;
-  
+  overflow-y: hidden;
 }
 header {
   background-color: #eee;
@@ -40,7 +40,7 @@ footer {
   padding: 8px;
   text-align: center;
   z-index: 1000;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 
@@ -56,8 +56,8 @@ footer {
   align-items: center;
 }
 .pf {
-  width: 12%;
-  height: 12%;
+  width: 11%;
+  height: 11%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
@@ -74,7 +74,7 @@ footer {
   width: 2.5%;
   height: auto;
   position: absolute;
-  left: 0;
+  left: -50;
   
 }
 .logo-ss {
