@@ -49,7 +49,7 @@ footer {
 .pf {
   width: 9%;
   height: 9%;
-  border: solid 3px transparent;
+  border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
   
@@ -57,7 +57,7 @@ footer {
 .pf:hover, .pf:active {
   border-color: #101010;
   filter: saturate(1);
-  transition: ease-in .5s;
+  transition: .2s;
 }
 
 .logo-i {
