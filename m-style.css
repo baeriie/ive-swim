@@ -6,7 +6,7 @@ body {
   width: 10%;
   height: auto;
   border: solid 2px transparent;
-  border-radius: 5px;
+  border-radius: 50%;
   filter: saturate(0);
 }
 .pf:hover, .pf:active {
@@ -14,7 +14,11 @@ body {
   filter: saturate(0);
 }
 
-.logo {
+.logo-i {
+  width: 5%;
+  height: auto;
+}
+.logo-ss {
   width: 10%;
   height: auto;
 }
