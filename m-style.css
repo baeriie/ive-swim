@@ -8,10 +8,11 @@ body {
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
+  padding: 0 2% 0 3%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
-  filter: saturate(0);
+  filter: saturate(50);
 }
 
 .logo-i {
