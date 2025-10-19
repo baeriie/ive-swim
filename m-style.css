@@ -2,3 +2,11 @@ body {
   background: #eee;
   color: #101010;
 }
+.pf {
+  width: 10%;
+  height: auto;
+  border: solid 2px #eee;
+}
+.pf:hover, .pf:active {
+  border-color: #101010;
+}
