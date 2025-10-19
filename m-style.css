@@ -4,12 +4,12 @@ body {
 }
 .pfdiv {display: inline-block;}
 .pf {
-  width: 10%;
-  height: 10%;
+  width: 7%;
+  height: 7%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  padding: 0 3% 0 3%;
+  margin: 0 2% 0 2%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
