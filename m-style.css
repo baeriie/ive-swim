@@ -5,11 +5,11 @@ body {
 .pfdiv {display: block;}
 .pf {
   width: 10%;
-  height: auto;
+  height: 10%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  padding: 0 5% 0 5%;
+  padding: 0 3% 0 3%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
