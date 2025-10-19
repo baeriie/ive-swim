@@ -1,7 +1,7 @@
 body {
   background: #eee;
   color: #101010;
-  overflow: hidden;
+  
 }
 header {
   background-color: #eee;
@@ -40,6 +40,7 @@ footer {
   padding: 8px;
   text-align: center;
   z-index: 1000;
+  overflow: hidden;
 }
 
 
@@ -55,8 +56,8 @@ footer {
   align-items: center;
 }
 .pf {
-  width: 15%;
-  height: 15%;
+  width: 12%;
+  height: 12%;
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
