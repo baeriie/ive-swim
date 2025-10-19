@@ -1,7 +1,7 @@
 body {
   background: #eee;
   color: #101010;
-  overflow-y: hidden;
+  
 }
 header {
   background-color: #eee;
@@ -40,7 +40,7 @@ footer {
   padding: 8px;
   text-align: center;
   z-index: 1000;
-  overflow: hidden;
+  overflow-y: hidden;
 }
 
 
