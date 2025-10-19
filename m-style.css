@@ -9,7 +9,7 @@ body {
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  margin: 0 2% 0 2%;
+  margin: 0 1% 0 2%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
@@ -17,10 +17,10 @@ body {
 }
 
 .logo-i {
-  width: 2%;
+  width: 4%;
   height: auto;
 }
 .logo-ss {
-  width: 10%;
+  width: 8%;
   height: auto;
 }
