@@ -58,8 +58,8 @@ footer {
   border: solid 2px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  padding-right: 50%;
-  padding-left: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
