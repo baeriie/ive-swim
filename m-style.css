@@ -19,22 +19,22 @@ ul.topnav {
 /* Style links in topnav */
 ul.topnav li a {
   display: block;
-  color: #f1f1f1;
+  color: #fafafa;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 /* Change color on hover */
 ul.topnav li a:hover {
-  background-color: #dddddd;
+  background-color: #bbb;
   color: black;
 }
 footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #f1f1f1;
+  background-color: #ffe5e5;
   padding: 8px;
   text-align: center;
   z-index: 1000;
@@ -63,7 +63,7 @@ footer {
 .logo-i {
   width: 3%;
   height: auto;
-  align-items: baseline;
+  
 }
 .logo-ss {
   width: 8%;
