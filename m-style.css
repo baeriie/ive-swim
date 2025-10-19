@@ -4,12 +4,12 @@ body {
 }
 .pfdiv {display: inline-block;}
 .pf {
-  width: 7%;
-  height: 7%;
-  border: solid 2px transparent;
+  width: 9%;
+  height: 9%;
+  border: solid 3px transparent;
   border-radius: 50%;
   filter: saturate(0);
-  margin: 0 1% 0 2%;
+  margin: 0 0 0 2%;
 }
 .pf:hover, .pf:active {
   border-color: #101010;
@@ -19,8 +19,10 @@ body {
 .logo-i {
   width: 4%;
   height: auto;
+  margin-bottom: 5% 0 5% 3%;
 }
 .logo-ss {
   width: 8%;
   height: auto;
+  margin-bottom: 10%;
 }
